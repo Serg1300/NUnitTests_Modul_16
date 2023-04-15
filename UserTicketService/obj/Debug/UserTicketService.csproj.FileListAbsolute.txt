@@ -1,0 +1,8 @@
+E:\SkilFact\UserTicketServiceMy\UserTicketService\bin\Debug\UserTicketService.exe.config
+E:\SkilFact\UserTicketServiceMy\UserTicketService\bin\Debug\UserTicketService.exe
+E:\SkilFact\UserTicketServiceMy\UserTicketService\bin\Debug\UserTicketService.pdb
+E:\SkilFact\UserTicketServiceMy\UserTicketService\obj\Debug\UserTicketService.csproj.AssemblyReference.cache
+E:\SkilFact\UserTicketServiceMy\UserTicketService\obj\Debug\UserTicketService.csproj.SuggestedBindingRedirects.cache
+E:\SkilFact\UserTicketServiceMy\UserTicketService\obj\Debug\UserTicketService.csproj.CoreCompileInputs.cache
+E:\SkilFact\UserTicketServiceMy\UserTicketService\obj\Debug\UserTicketService.exe
+E:\SkilFact\UserTicketServiceMy\UserTicketService\obj\Debug\UserTicketService.pdb
